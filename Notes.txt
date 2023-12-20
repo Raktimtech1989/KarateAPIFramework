@@ -1,0 +1,7 @@
+============
+Integrate java faker in Karate framework 
+
+
+
+mvn clean test-compile exec:java -Dexec.mainClass=RunnerTest
+
